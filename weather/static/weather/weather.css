@@ -1,0 +1,17 @@
+body { background: #f6f6f6; font-family: Arial, sans-serif; }
+.weather-container { width: 350px; margin: 60px auto; background: #fff; border: 1px solid #ddd; border-radius: 4px; padding: 30px 26px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
+h1 { font-size: 24px; font-weight: 400; margin-bottom: 20px; }
+label { font-size: 14px; font-weight: 700; display: block; margin-bottom: 6px; }
+input[type="text"] { width: 100%; padding: 8px; margin-bottom: 16px; border: 1px solid #a6a6a6; border-radius: 3px; font-size: 16px; }
+button { width: 100%; background: #ffd814; border: 1px solid #fcd200; border-radius: 3px; padding: 10px; font-size: 16px; font-weight: 700; cursor: pointer; margin-bottom: 16px; }
+.result { margin-top: 20px; font-size: 16px; }
+.weather-result {
+    background: #e3f2fd;
+    border: 1px solid #90caf9;
+    border-radius: 3px;
+    padding: 12px 10px;
+    margin-top: 18px;
+    color: #1565c0;
+    font-weight: 500;
+    box-shadow: 0 1px 4px rgba(21,101,192,0.07);
+}
